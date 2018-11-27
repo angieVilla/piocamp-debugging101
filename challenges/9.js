@@ -7,7 +7,7 @@ function countToFive() {
   let firstFive = "12345";
   let len = firstFive.length;
   // Arregla la línea de abajo
-  for (let i = 1; i <= len; i++) {
+  for (let i = 0; i < len; i++) {
   // No alteres el código debajo de esta línea
     console.log(firstFive[i]);
   }
