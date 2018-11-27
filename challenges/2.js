@@ -8,3 +8,5 @@ let siete = 7;
 let tres = "3";
 console.log(siete + tres);
 // Tu código va aquí
+console.log(typeof siete);
+console.log(typeof tres);
